@@ -1,0 +1,48 @@
+/* navbar */
+.navbar ul {
+  flex-wrap: wrap;
+  justify-content: content;
+}
+.heading {
+  font-size: 1.8rem;
+}
+/* Gallery image */
+.gallery img {
+  width: 270px;
+  height: 360px;
+}
+/* About section */
+.about {
+  flex-direction: column;
+}
+.about h2 {
+  text-align: center;
+}
+.about img {
+  width: 300px;
+  height: 150px;
+  padding: 0px 10px;
+}
+/* message box */
+#message {
+  width: 40%;
+  height: 200px;
+}
+/* boxes */
+.box {
+  height: 150px;
+  width: 250px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+.box h2 {
+  color: yellowgreen;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+.box p {
+  color: white;
+  font-size: 0.8rem;
+}
