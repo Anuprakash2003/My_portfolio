@@ -76,6 +76,9 @@ html {
   justify-content: space-around;
   flex-wrap: wrap;
 }
+.box{
+  padding:8px;
+}
 .gallery img {
   width: 360px;
   height: 640px;
